@@ -9,5 +9,6 @@
 import Foundation
 
 class TicTacToeBrain {
-  
+    var cross: String = "X"
+    var nought: String = "O"
 }
